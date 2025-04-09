@@ -20,7 +20,7 @@ Lançado em 2023, o programa foi pensado para **movimentar a economia, reduzir a
 
 ### 🧾 Como funciona?
 
-O Desenrola Brasil é dividido em **duas faixas de atendimento**, com critérios específicos:
+O Desenrola Brasil é dividido principalmente em **duas faixas de atendimento**, com critérios específicos:
 
 - **Faixa 1**: Destinada a pessoas com **renda mensal de até 2 salários mínimos** ou inscritas no **CadÚnico** (Cadastro Único para Programas Sociais). Nesta faixa, as dívidas bancárias e não bancárias (como contas de água, luz, varejo e telefonia) podem ser negociadas com **descontos de até 96%** e parcelamento em até **60 vezes**.
   
