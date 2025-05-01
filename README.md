@@ -40,6 +40,88 @@ Desde seu lançamento, o Desenrola Brasil já impactou **milhões de brasileiros
 - Matplotlib / Seaborn  
 - Jupyter Notebook 
 
+## Visão Geral
+
+Este relatório apresenta estatísticas descritivas para os três tipos de operações classificadas como `TIPO_DESENROLA` (1, 2 e 3). Foram analisadas duas métricas principais:  
+- **`NUMERO_OPERACOES`**: quantidade de operações realizadas  
+- **`VOLUME_OPERACOES`**: valor financeiro total movimentado nas operações  
+
+---
+
+### Resumo Estatístico por Tipo
+
+### TIPO_DESENROLA 1 – Perfil com Alto Volume e Baixo Ticket Médio
+
+- **Número de Operações:**
+  - **Média:** 399,24  
+  - **Mediana:** 22,00  
+  - **Desvio padrão:** 1.354,78  
+  - **Mínimo:** 1  
+  - **Máximo:** 29.380
+
+- **Volume de Operações:**
+  - **Média:** R$ 414.948,71  
+  - **Mediana:** R$ 14.939,22  
+  - **Desvio padrão:** R$ 1.438.309,60  
+  - **Mínimo:** R$ 0,03  
+  - **Máximo:** R$ 31.656.400,47
+
+> **Análise:**  
+> Este grupo possui grande dispersão no número de operações, com poucos casos muito acima da média (indicado pelo desvio alto e mediana baixa). O volume financeiro segue o mesmo padrão. Indica muitas operações de pequeno valor, com alguns casos extremos.
+
+---
+
+### TIPO_DESENROLA 2 – Perfil com Mais Operações e Volume Elevado
+
+- **Número de Operações:**
+  - **Média:** 237,41  
+  - **Mediana:** 14,50  
+  - **Desvio padrão:** 1.587,46  
+  - **Mínimo:** 1  
+  - **Máximo:** 46.456
+
+- **Volume de Operações:**
+  - **Média:** R$ 987.306,09  
+  - **Mediana:** R$ 63.730,52  
+  - **Desvio padrão:** R$ 6.137.275,14  
+  - **Mínimo:** R$ 0,05  
+  - **Máximo:** R$ 214.653.115,30
+
+> **Análise:**  
+> Apesar da média ser menor que o Tipo 1, este grupo apresenta o maior número absoluto de operações e volume financeiro. A diferença entre média e mediana indica concentração de valores em poucas operações muito grandes.
+
+---
+
+### TIPO_DESENROLA 3 – Baixo Número de Operações com Alto Valor Médio
+
+- **Número de Operações:**
+  - **Média:** 72,84  
+  - **Mediana:** 16,00  
+  - **Desvio padrão:** 225,78  
+  - **Mínimo:** 1  
+  - **Máximo:** 3.175
+
+- **Volume de Operações:**
+  - **Média:** R$ 2.745.341,48  
+  - **Mediana:** R$ 484.222,69  
+  - **Desvio padrão:** R$ 11.368.921,69  
+  - **Mínimo:** R$ 77,60  
+  - **Máximo:** R$ 214.562.582,21
+
+> **Análise:**  
+> Grupo com poucas operações e valores médios bastante altos. O alto desvio padrão sugere forte influência de outliers, mas a mediana já aponta valores elevados. Pode representar renegociações de grandes dívidas.
+
+---
+
+## Considerações Finais
+Os três tipos analisados apresentam perfis distintos:
+- **Tipo 1:** grande quantidade de operações pequenas.
+- **Tipo 2:** mistura de muitas operações e grandes volumes.
+- **Tipo 3:** poucas operações de altíssimo valor.
+
+Essas diferenças podem orientar políticas específicas para cada segmento do programa Desenrola Brasil.
+
+
 ### Dashboard no PowerBi
 
 [<img src="/imagens/dash.jpg">](https://app.powerbi.com/view?r=eyJrIjoiYWZhYTdiZjUtYWEyMy00NmU0LTk3ZWUtNzJlMzljZmVkZjg5IiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
