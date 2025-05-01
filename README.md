@@ -42,7 +42,7 @@ Desde seu lançamento, o Desenrola Brasil já impactou **milhões de brasileiros
 
 ### Dashboard no PowerBi
 
-![Dashboard Power BI](imagens/dash.jpg)(https://app.powerbi.com/view?r=eyJrIjoiYWZhYTdiZjUtYWEyMy00NmU0LTk3ZWUtNzJlMzljZmVkZjg5IiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
+[![Dashboard Power BI](imagens/dash.jpg)](https://app.powerbi.com/view?r=eyJrIjoiYWZhYTdiZjUtYWEyMy00NmU0LTk3ZWUtNzJlMzljZmVkZjg5IiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
 
 
 
